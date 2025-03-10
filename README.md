@@ -2,7 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/2843325e-5cf4-472e-b760-b29223c3dc35)
 
-Visualisation of which colors pass a contrast ratio check, for accessibility purposes.
+Visualisation of which colors pass a contrast ratio check, for accessibility purposes ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)).
+
+This script enables bulk visualisation, instead of single-color contrast tests of online tools like [this](https://webaim.org/resources/contrastchecker/)
 
 On the left side, a slice of the color cube is shown, at the slider-provided red value. The colors shown are ones that pass the contrast test - everything else is transparent.
 
